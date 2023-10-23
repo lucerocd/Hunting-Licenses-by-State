@@ -1,4 +1,4 @@
-###Hunting Licenses by State in 2023
+Hunting Licenses by State in 2023
 
 The purpose of this application is to display the amount of hunting licenses issued by each state or territory of the United States in 2023 in an interactive choropleth map.
 
